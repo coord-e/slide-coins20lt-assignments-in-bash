@@ -7,11 +7,6 @@ section {
   background-color: #f1f1f1;
 }
 
-section.title {
-  background-image: url("./asset/background_title.svg");
-  background-size: cover;
-}
-
 section.lead > h1 {
   font-size: 2em;
 }
